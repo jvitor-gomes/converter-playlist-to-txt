@@ -1,0 +1,14 @@
+C:\converter-playlist-to-txt\PlaylistConverter\PlaylistConverter\bin\Debug\net8.0\PlaylistConverter.exe
+C:\converter-playlist-to-txt\PlaylistConverter\PlaylistConverter\bin\Debug\net8.0\PlaylistConverter.deps.json
+C:\converter-playlist-to-txt\PlaylistConverter\PlaylistConverter\bin\Debug\net8.0\PlaylistConverter.runtimeconfig.json
+C:\converter-playlist-to-txt\PlaylistConverter\PlaylistConverter\bin\Debug\net8.0\PlaylistConverter.dll
+C:\converter-playlist-to-txt\PlaylistConverter\PlaylistConverter\bin\Debug\net8.0\PlaylistConverter.pdb
+C:\converter-playlist-to-txt\PlaylistConverter\PlaylistConverter\obj\Debug\net8.0\PlaylistConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\converter-playlist-to-txt\PlaylistConverter\PlaylistConverter\obj\Debug\net8.0\PlaylistConverter.AssemblyInfoInputs.cache
+C:\converter-playlist-to-txt\PlaylistConverter\PlaylistConverter\obj\Debug\net8.0\PlaylistConverter.AssemblyInfo.cs
+C:\converter-playlist-to-txt\PlaylistConverter\PlaylistConverter\obj\Debug\net8.0\PlaylistConverter.csproj.CoreCompileInputs.cache
+C:\converter-playlist-to-txt\PlaylistConverter\PlaylistConverter\obj\Debug\net8.0\PlaylistConverter.dll
+C:\converter-playlist-to-txt\PlaylistConverter\PlaylistConverter\obj\Debug\net8.0\refint\PlaylistConverter.dll
+C:\converter-playlist-to-txt\PlaylistConverter\PlaylistConverter\obj\Debug\net8.0\PlaylistConverter.pdb
+C:\converter-playlist-to-txt\PlaylistConverter\PlaylistConverter\obj\Debug\net8.0\PlaylistConverter.genruntimeconfig.cache
+C:\converter-playlist-to-txt\PlaylistConverter\PlaylistConverter\obj\Debug\net8.0\ref\PlaylistConverter.dll
